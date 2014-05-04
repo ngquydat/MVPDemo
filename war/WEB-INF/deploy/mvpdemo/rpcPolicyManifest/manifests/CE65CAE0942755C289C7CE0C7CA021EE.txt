@@ -1,0 +1,2 @@
+serviceClass: com.course.mvp.demo.client.services.LoginService
+path: C077ECA36D928EA75AECBCD41E968369.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: com.course.mvp.demo.client.services.EbookService
+path: F367B4AF50FCDC026A0D3CDE39E61EA9.gwt.rpc

@@ -1,0 +1,5 @@
+# Module mvpdemo
+# RPC service class, partial path of RPC policy file
+com.googlecode.gwtphonegap.client.log.shared.PhoneGapLogService, 0C7E6DD8BC95554A9B14DCC0A09FE118.gwt.rpc
+com.course.mvp.demo.client.services.LoginService, C077ECA36D928EA75AECBCD41E968369.gwt.rpc
+com.course.mvp.demo.client.services.EbookService, F367B4AF50FCDC026A0D3CDE39E61EA9.gwt.rpc
